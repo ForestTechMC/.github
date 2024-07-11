@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! 🖐🏼</h1>
-<h3 align="center">We are Developers from Czech Republic</h3>
+<h3 align="center">We are Developers from the Czech Republic</h3>
 
 
 - 🔧 We are currently working on new projects
@@ -9,7 +9,7 @@
 - 🔧 How to reach us <a href="https://discord.gg/jg3fbgpR8p" target="_blank">Discord server</a>
 
 
-# Our main projects
+# Our key projects
 
 ### [ForestRedisAPI](https://github.com/ForestTechMC/ForestRedisAPI)
 - Redis API for Minecraft servers based on Jedis with custom events, and simple example how to use it.
